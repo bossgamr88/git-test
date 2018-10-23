@@ -2,3 +2,9 @@ function name() {
     console.log("Pakawat Klomyang")
 }
 name();
+
+function nameFn(){
+    console.log("uupdata")
+}
+
+nameFn();
