@@ -7,4 +7,6 @@ function nameFn(){
     console.log("uupdata")
 }
 
-nameFn();
+nameFn(); 
+
+// up date file by Pakawat
